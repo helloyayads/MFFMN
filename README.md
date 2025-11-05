@@ -70,3 +70,6 @@ python test.py --cfg_file ${CONFIG_FILE} --ckpt ${CKPT}
 bash test.sh
 ```
 
+
+# MFFMN
+MFFMN: Multi-Feature Fusion Mamba Enhancement Network for LiDAR-based 3D Object Detection
