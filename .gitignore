@@ -13,5 +13,4 @@ venv/
 .DS_Store
 output
 version.py
-pcdet
 Untitled.ipynb
