@@ -4,7 +4,7 @@
 
 This is the official implementation of ***MFFMN*** , a simple and highly efficient point-based detector for 3D LiDAR point clouds. For more details, please refer to:
 
-**MFFMN: Multi-Feature Fusion Mamba Enhancement Network for LiDAR-based 3D Object DetectionHighlights**
+**[MFFMN: Multi-Feature Fusion Mamba Enhancement Network for LiDAR-based 3D Object DetectionHighlights](https://www.sciencedirect.com/science/article/abs/pii/S1568494625015753)**
 
 Weiwei Kong, Yusheng Du
 
